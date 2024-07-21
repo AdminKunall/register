@@ -1,0 +1,21 @@
+{
+    "description": "We are Helping Poor Kids and Provide them food and all study stuff ",
+
+    "domain": "localplayer.dev",
+    "subdomain": "levelupfoundation",
+
+    "owner": {
+        "repo": "https://github.com/AdminKunall/DevKunall",
+        "email": "levelupfoundation.org@gmail.com"
+    },
+
+    "record": {
+        "A": ["1.1.1.1", "1.0.0.1"],
+        "AAAA": ["::1", "::2"],
+        "CNAME": "levelupfoundation.com",
+        "MX": ["mx1.levelupfoundation.com", "mx2.levelupfoundationsupport.com"],
+        "TXT": ["levelupfoundation_verification=1234567890"]
+    },
+
+    "proxied": false
+}
